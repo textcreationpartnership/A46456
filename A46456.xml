@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the commissions and warrants for the condemnation and burning of Bartholomew Legatt and Thomas Withman the one in West-Smithfield, London, the other at Lichfield, in the year, 1611. Signed with K. James his own hand. In which is laid open their most blasphemous heresies and false opinions, being part of them the very same which our ranters in these times profess to be their new lights. Whereunto are added, the pardons of Theophilus Higgons, and Sr Eustace Hart Knight. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46456</idno>
+            <idno type="STC">Wing J146</idno>
+            <idno type="STC">ESTC R216993</idno>
+            <idno type="EEBO-CITATION">99828701</idno>
+            <idno type="PROQUEST">99828701</idno>
+            <idno type="VID">33132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1967:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the commissions and warrants for the condemnation and burning of Bartholomew Legatt and Thomas Withman the one in West-Smithfield, London, the other at Lichfield, in the year, 1611. Signed with K. James his own hand. In which is laid open their most blasphemous heresies and false opinions, being part of them the very same which our ranters in these times profess to be their new lights. Whereunto are added, the pardons of Theophilus Higgons, and Sr Eustace Hart Knight. Published by authority.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Bacon, Francis, 1561-1626.</author>
+                  <author>England and Wales. Sovereign (1603-1625 : James I).</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Michael Spark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLI. [1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of documents.</note>
+                  <note>'The pardon of Theophilus Higgons' is signed: Fr. Bacon.</note>
+                  <note>Thomas Withman = Edward Wightman.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Legatt, Bartholomew, 1575?-1612 --  Early works to 1800.</term>
+               <term>Wightman, Edward, --  d.1612 --  Early works to 1800.</term>
+               <term>Harte, Eustace, --  Sir --  Early works to 1800.</term>
+               <term>Higgons, Theophilus, 1578?-1659 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33132:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF THE COMMISSIONS AND WARRANTS for the Condemnation and Burning of <hi>BARTHOLOMEW LEGATT</hi> AND <hi>THOMAS WITHMAN,</hi> the one in Weſt-Smithfield, <hi>London,</hi> the other at <hi>Lichfield,</hi> in the Year, 1611.</p>
+            <p>Signed with K. <hi>James</hi> his own hand.</p>
+            <p>In which is laid open their moſt Blaſphemous Hereſies and falſe Opinions, being part of them the very ſame which our <hi>Ranters</hi> in theſe times profeſs to be their <hi>New Lights.</hi>
+            </p>
+            <p>
+               <hi>Whereunto are added,</hi> The Pardons of <hi>Theophilus Higgons,</hi> and S<hi rend="sup">t</hi> 
+               <hi>Euſtace Hart</hi> Knight.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Michael Spark,</hi> MDCLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:33132:2"/>
+            <pb n="1" facs="tcp:33132:2"/>
+            <head>A NARRATION of the Burning of <hi>Bartholomew Legatt.</hi>
+            </head>
+            <head type="sub">James R.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">J</seg>AMES by the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi>
+               </signed>
+               <salute>To Our right Truſty, and right Wellbeloved Counſel<g ref="char:EOLhyphen"/>lor <hi>Thomas</hi> Lord <hi>Elleſmere</hi> our Chancellor of <hi>England,</hi> Greeting.</salute>
+            </opener>
+            <p>Where the Reve<g ref="char:EOLhyphen"/>rend Father in God <hi>John</hi> Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> having judicially proceeded in a Cauſe of Hereſie againſt <hi>Bartholomew Legatt</hi> of the City of <hi>London,</hi> in the Dioceſs of the ſaid Biſhop of <hi>London</hi> concerning divers wicked Errours, Hereſies, and blaſphe<g ref="char:EOLhyphen"/>mous Opinions, holden, affirmed and publiſhed by the ſaid <hi>Bartholomew Legatt,</hi> and chiefly in theſe thirteen bla<g ref="char:EOLhyphen"/>ſphemous Poſitions following, <hi>viz.</hi> That the Creed called the <hi>Nicene Creed</hi> and <hi>Athanaſius Creed</hi> contain not a Profeſſi<g ref="char:EOLhyphen"/>on of the true Chriſtian Faith, or that he will not profeſs his Faith according to the ſame Creeds. That Chriſt is not God
+<pb n="2" facs="tcp:33132:3"/>of God begotten, not made, but begotten and made. That there are no Perſons in the Godhead. That Chriſt was not God from everlaſting, but began to be God when he took fleſh of the Virgin <hi>Mary.</hi> That the World was not made by Chriſt. That the Apoſtles teach Chriſt to be man only. That there is no Generation in God, but of creatures. That this Aſſertion, God to be made man, is contrary to the Rule of Faith, and monſtrous Blaſphemy. That Chriſt was not before the fulneſs of time except by Promiſe. That Chriſt was not God other<g ref="char:EOLhyphen"/>wiſe then an anointed God. That Chriſt was not in the form of God equal with God, that is, in ſubſtance of God, but in Righteouſneſs and giving Salvation. That Chriſt by his God<g ref="char:EOLhyphen"/>head wrought no Miracle. That Chriſt is not to be praied un<g ref="char:EOLhyphen"/>to. Wherein he the ſaid <hi>Bartholomew Legatt</hi> hath before the ſaid Reverend Father maintained his ſaid moſt Dangerous and Blaſphemous Opinions, as appeareth by many his confeſſions publickly made and acknowledged. For which his Damnable and Heretical Opinions, he is by diffinitive ſentence by the ſaid Reverend Father <hi>John</hi> Biſhop of <hi>London,</hi> with the advice and conſent of other Reverend Biſhops, learned Divines, and others learned in the Laws aſſiſting him in Judgement, juſtly adjudg<g ref="char:EOLhyphen"/>ed, pronounced and declared to be an obſtinate and incorrigi<g ref="char:EOLhyphen"/>ble Heretick, and is left by them under the Sentence of the great Excommunication, and therefore as a corrupt Member to be cut off from the Church of Chriſt, and Society of the Faithful, and is to be by our ſecular Power and Authority as an Heretick puniſhed, as by the <hi>ſignificavit</hi> of the ſaid Reverend Father in God the ſaid Biſhop of <hi>London,</hi> bearing date at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> the third Day of <hi>March</hi> in the year of our Lord, 1611. in the ninth year of Our Reign, and remaining in Our Court of Chancery more at large appeareth. And although the ſaid <hi>Bartholomew Legatt</hi> hath ſince the ſaid ſentence pronounced againſt him, been often very charitably moved and exhorted as well by the ſaid Biſhop, as by many grave and learned Divines, to diſſwade, revoke and remove him from the ſaid Blaſphemous and Heretical Opinions, yet he arrogantly and wilfully perſiſt<g ref="char:EOLhyphen"/>eth and continueth in the ſame. We therefore according to our Regal Function and Office, minding the execution of Juſtice in
+<pb n="3" facs="tcp:33132:3"/>this behalf, and to give example to others, leaſt they ſhould attempt the like hereafter, have determined by the Aſſent of our Council, to will and require, and do hereby Authorize and require you our ſaid Chancellor, immediately upon the re<g ref="char:EOLhyphen"/>ceipt hereof, to award and make out under Our Great Seal of <hi>England</hi> our Writ of Execution according to the Tenor in theſe Preſents enſuing. And theſe Preſents ſhall be your ſufficient Warrant and Diſcharge for the ſame.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>REx Vicecomitibus London, Salutem, Cùm Reverendus in Chriſto Pater Johannes London Epiſcopus nobis ſignificavit, quod cum ipſe in quodam Haereticae pravitatis negotio contra quen<g ref="char:EOLhyphen"/>dam Bartholomeum Legatt ſubditum noſtrum Civitatis London di<g ref="char:EOLhyphen"/>cti London Epiſcopi Dioceſs. &amp; juriſdictionis ritè &amp; legitimè pro<g ref="char:EOLhyphen"/>cedens, per Acta inactitata deducta propoſita, &amp; per confeſſiones ipſius Bartholomei Legatt, coram praefato Epiſcopojudicialiter fa<g ref="char:EOLhyphen"/>ctas &amp; recognitas comperit &amp; invenit praefatum Bartholomeum, Legatt quamplurimos nephandos errores falſas Opiniones Haereſes &amp; Blaſphemias execrandas &amp; ſcelerata dogmata Catholicae &amp; Or<g ref="char:EOLhyphen"/>thodoxae Fidei &amp; Religioni &amp; Sacroſancto Dei Verbo expreſsè con<g ref="char:EOLhyphen"/>traria &amp; repugnantia ſcienter maliciosè animoque pertinaci obdu<g ref="char:EOLhyphen"/>rato planéque incorrigibili credere tenere affirmare &amp; publicare idem Reverendus Pater London Epiſcopus cum conſilio &amp; conſenſu tam Reverendorum Epiſcoporum &amp; aliorum Theologorum quam juris etiam peritorrm in judicio aſſiden. &amp; aſſiſten. eundem Bartholomeum Legatt per ſententiam ſuam diffinitivam obduratum contumacem &amp; incorrigibilem Haereticum pronunciavit decrevit &amp; declaravit, eaque occaſione tanquam protervum Haereticum &amp; Membrum putridum &amp; contagioſum ab Eccleſia Chriſti &amp; Fi<g ref="char:EOLhyphen"/>delium Communione reciſum &amp; amputatum fore. Cum igitur ſancta Mater Eccleſia non habeat quod ulterius facere &amp; exequi valeat in hac parte, idem Reverendus Pater praefatum Bartholome<g ref="char:EOLhyphen"/>um Legatt, ut Blaſphemum Haereticum brachio noſtro ſeculari re<g ref="char:EOLhyphen"/>liquit condigna animadverſione plectend' prout per Literas Paten<g ref="char:EOLhyphen"/>tes praefati Reverendi in Chriſti Patris London Epiſcopi in hac par<g ref="char:EOLhyphen"/>te ſuperinde confect' Nobis in Cancellar' noſtram Certificat' eſt. Nos igitur ut Zelator Juſtitiae &amp; Fidei Catholicae Defenſor, vo<g ref="char:EOLhyphen"/>lenteſque Eccleſiam ſanctam ac Jura &amp; Libertates ejuſdem &amp; Fi<g ref="char:EOLhyphen"/>dem
+<pb n="4" facs="tcp:33132:4"/>Catholicam manutenere &amp; defendere, ac hujuſmodi Haereſes &amp; Errores ubique quantum in Nobis eſt eradicare &amp; extirpare, ac Haereticos ſic convictos animadverſione condigna puniri, attenden<g ref="char:EOLhyphen"/>teſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> hujuſmodi Haereticum in forma praed' convictum &amp; damnatum juxta Leges &amp; Conſuetudines Regni Noſtri Angliae in hac parte conſuet' ignis incendio comburi debere. Vobis praecipimus quod di<g ref="char:EOLhyphen"/>ctum Bartholomeum Legatt in Custodia veſtra eniſten' apud Weſt-Smithfield in loco publico &amp; aperto ex cauſa pramiſſa coram popu<g ref="char:EOLhyphen"/>lo publicè igni committi, ac ipſum Bartholomeum Legatt in eodem igne realiter comburi fac' in hujuſmodi criminis Deteſtationem, alio<g ref="char:EOLhyphen"/>rumque Chriſtianorum exemplum manifeſtum, ut in ſimile crimen labantur. Et hoc ſub periculo incumbenti nullatenus omittatis. Teſte, <hi>&amp;c.</hi>
+                        </p>
+                        <closer>
+                           <signed>Henry Hibirte.</signed>
+                        </closer>
+                        <postscript>
+                           <p>This containeth a Warrant to be granted by Your Majeſty unto the Lord Chancellour of <hi>England,</hi> for the awarding of a Writ under the Great Seal of <hi>England</hi> to the Sheriff of the City of <hi>London,</hi> for the burning of <hi>Bartholomew Legatt,</hi> who is convicted of divers horrible Hereſies before the Biſhop of <hi>London,</hi> and by his Sentence left to the ſecular Power, as is by the ſaid Biſhop certified to Your Majeſty into Your Highneſs Court of Chancery.</p>
+                           <p>And is done by force of Your Majeſties commandment to me given under Your Highneſs Sign manual.</p>
+                           <closer>
+                              <signed>Henry Hibirte.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe King to the Sheriffs of <hi>London,</hi> greeting, Whereas the Reverend Father in Chriſt <hi>John</hi> Biſhop of <hi>London,</hi> hath ſignified unto Us, that when he in a certain buſineſs of Hereti<g ref="char:EOLhyphen"/>cal
+<pb n="5" facs="tcp:33132:4"/>pravity againſt one <hi>Bartholomew Legatt</hi> our Subject of the City of <hi>London,</hi> of the ſaid Biſhop of <hi>Londons</hi> Dioceſs and Ju<g ref="char:EOLhyphen"/>riſdiction, rightly and lawfully proceeding by Acts enacted, drawn, propoſed, and by the Confeſſions of the ſaid <hi>Bartho<g ref="char:EOLhyphen"/>lomew Legatt,</hi> before the ſaid Biſhop judicially made and ac<g ref="char:EOLhyphen"/>knowledged, hath found in the ſaid <hi>Bartholomew Legatt</hi> very many wicked Errours, falſe Opinions, Hereſies, and curſed Blaſphemies, and impious Doctrines, expreſly contrary and repugnant to the Catholick Faith and Religion, and the holy Word of God, knowingly and maliciouſly, and with a perti<g ref="char:EOLhyphen"/>nacious and obdurate plainly incorrigible minde, to believe, hold, affirm and publiſh, the ſame Reverend Father the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London</hi> with the Advice and Conſent, as well of the Reverend Biſhops and other Divines, as alſo of men Learned in the Law, in Judgement ſitting and aſſiſting; the ſame <hi>Bar<g ref="char:EOLhyphen"/>tholomew Legatt</hi> by his definitive Sentence hath pronounced, decreed, and declared to be an obdurate, contumacious and incorrigible Heretick, and upon that occaſion as a ſtubborn Heretick, and rotten contagious Member to be cut off from the Church of Chriſt, and the Communion of the Faith<g ref="char:EOLhyphen"/>ful; Whereas the Holy Mother Church hath not further to doe and proſecute in this part, the ſame Reverend Father hath left the aforeſaid <hi>Bartholomew Legatt</hi> as a blaſphemous Heretick to our ſecular Power to be puniſhed with condign Puniſhment, as by the Letters Patents of the ſaid Reverend Father in Chriſt the Biſhop of <hi>London</hi> in this behalf, above made hath certified unto Us in Our Chancery. We there<g ref="char:EOLhyphen"/>fore as a Zealot of Juſtice, and a Defendor of the Catho<g ref="char:EOLhyphen"/>lick Faith, and willing to maintain and defend the holy Church, and Rights, and Liberties of the ſame, and the Catholick Faith: And ſuch Hereſies and Errours every where what in Us lieth, to root out and extirpate, and to puniſh with condign Puniſhment ſuch Hereticks ſo con<g ref="char:EOLhyphen"/>victed, and deeming that ſuch an heretick in form afore<g ref="char:EOLhyphen"/>ſaid, convicted and condemned according to the Laws and Cuſtoms of this Our Kingdome of <hi>England</hi> in this part ac<g ref="char:EOLhyphen"/>cuſtomed, ought to be burned with Fire; We do command
+<pb n="6" facs="tcp:33132:5"/>you, that the ſaid <hi>Bartholomew Legatt,</hi> being in your Cu<g ref="char:EOLhyphen"/>ſtody, you do commit publickly to the Fire, before the Peo<g ref="char:EOLhyphen"/>ple, in a publick and open place in Weſt-Smithfield, for the cauſe aforeſaid, and that you cauſe the ſaid <hi>Bartholomew Legatt</hi> to be really burned in the ſame Fire, in Deteſtation of the ſaid Crime, for the manifeſt example of other Chriſti<g ref="char:EOLhyphen"/>ans, leſt they ſlide into the ſame fault, and this that in no wiſe you omit, under the peril that ſhall follow thereon. Wit<g ref="char:EOLhyphen"/>neſſe, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:33132:5"/>
+            <head>A NARRATION of the Burning of <hi>Edward Wightman.</hi>
+            </head>
+            <head type="sub">James R.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">J</seg>AMES by the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi>
+               </signed>
+               <salute>To our right Truſty and right Welbe<g ref="char:EOLhyphen"/>loved Councellor, <hi>Thomas</hi> Lord <hi>Elleſmere</hi> our Chancellour of <hi>England,</hi> Greeting.</salute>
+            </opener>
+            <p>Where the Reverend Father in God, <hi>Richard</hi> Biſhop of <hi>Coventry</hi> and <hi>Lich<g ref="char:EOLhyphen"/>field,</hi> having judicially proceeded in the Examination, Hearing and Determining of a Cauſe of Hereſie againſt <hi>Edward Wight<g ref="char:EOLhyphen"/>man</hi> of the Pariſh of <hi>Burton</hi> upon <hi>Trent</hi> in the Dioceſs of <hi>Co<g ref="char:EOLhyphen"/>ventrey</hi> and <hi>Lichfield,</hi> concerning the wicked Hereſies of the <hi>Ebionites, Cerinthians, Valentinians, Arrians, Macedonians,</hi> of <hi>Simon Magus,</hi> of <hi>Manes, Manichees,</hi> of <hi>Photinus,</hi> and <hi>Anabaptiſts,</hi> and of other Heretical, Execrable, and unheard of Opinions, by the inſtinct of Satan, by him excogitated and holden, <hi>viz.</hi>
+            </p>
+            <p>That there is not the Trinity of Perſons, the Father, the Son, and the holy Ghoſt, in the Unity of the Deity. 2. That Jeſus Chriſt is not the true natural Son of God, perfect God, and of the ſame Subſtance, Eternity and Majeſty with the Fa<g ref="char:EOLhyphen"/>ther in reſpect of his Godhead. 3. That Jeſus Chriſt is only Man and a meer Creature, and not both God and man in one Perſon. 4. That Chriſt our Saviour took not humane fleſh of the ſubſtance of the Virgin <hi>Mary</hi> his Mother; and that That Promiſe, <hi>The ſeed of the Woman ſhall break the ſerpents head,</hi> was
+<pb n="8" facs="tcp:33132:6"/>not fulfilled in Chriſt. 5. That the Perſon of the holy Ghoſt is not God coequal, coeternal, and coeſſential with the Father and the Son. 6. That the three Creeds, <hi>viz.</hi> The Apoſtles Creed, the <hi>Nicene</hi> Creed, and the <hi>Athanaſius</hi> Creed are the Hereſies of the <hi>Nicolaitanes.</hi> 7. That he the ſaid <hi>Edward Wight<g ref="char:EOLhyphen"/>man</hi> is that Prophet ſpoken of in the eighteenth of <hi>Deutronomy</hi> in theſe words, <hi>I will raiſe them up a Prophet,</hi> &amp;c. And that That place of <hi>Iſaiah, I alone have troden the wine-preſs:</hi> And that That place, <hi>Whoſe fan is in his hand,</hi> are proper and perſo<g ref="char:EOLhyphen"/>nal to him, the ſaid <hi>Edward Wightman.</hi> 8. And that he the ſaid <hi>Wightman</hi> is that Perſon of the holy Ghoſt ſpoken of in the Scriptures; and the Comforter ſpoken of in the ſixteenth of S<hi rend="sup">t</hi> 
+               <hi>Johns</hi> Goſpel. 9. And that thoſe words of our Saviour Chriſt of the ſin of blaſpemy againſt the holy Ghoſt, are meant of his perſon. 10. And that That place the fourth of <hi>Malachy,</hi> of <hi>Elias</hi> to come, is likewiſe meant of his perſon. 11. That the Soul doth ſleep in the ſleep of the firſt death, as well as the bo<g ref="char:EOLhyphen"/>dy, and is mortall as touching the ſleep of the firſt death, as the body is: And that the Soul of our Saviour Jeſus Chriſt did ſleep in that ſleep of death as well as his body. 12. That the Souls of the elect Saints departed, are not Members poſſeſſed of the triumphant Church in Heaven. 13. That the baptizing of Infants is an abominable cuſtom. 14. That there ought not be in the Church the uſe of the Lords Supper to be celebrated in the Elements of Bread and Wine: And the uſe of Baptiſm to be celebrated in the Element of Water, as they are now practi<g ref="char:EOLhyphen"/>ſed in the Church of <hi>England.</hi> But that the uſe of Baptiſm is to be Adminiſtred in Water, only to Converts of ſufficient age of underſtanding, converted from Infidelity to the Faith. 15. That God hath ordained and ſent him, the ſaid <hi>Edward Wightman,</hi> to perform his part in the work of the Salvation of the world, to deliver it by his teaching or admonition from the Hereſie of the <hi>Nicolaitanes,</hi> as Chriſt was ordained and ſent to ſave the world, and by his death to deliver it from ſin, and to reconcile it to God. 16. And that Chriſtianity is not whol<g ref="char:EOLhyphen"/>ly profeſſed and preached in the Church of <hi>England,</hi> but only in part. Wherein he the ſaid <hi>Edward Wightman</hi> hath before the ſaid Revered Father, as alſo before our Commiſſioners for
+<pb n="9" facs="tcp:33132:6"/>cauſes Eccleſiaſtical within our Realm of <hi>England,</hi> maintained his ſaid moſt perillous and dangerous Opinions, as appeareth by many his Confeſſions, as alſo by a Book written and ſubſcri<g ref="char:EOLhyphen"/>bed by him, and given to us. For the which his Damnable and Heretical Opinions, he is by Divine ſentence declared by the ſaid Reverend Father, the Biſhop of <hi>Coventrey</hi> and <hi>Lichfield,</hi> with the advice and conſent of Learned Divines, and other Learned in the Laws aſſiſting him in Judgement, juſtly ad<g ref="char:EOLhyphen"/>judged, pronounced and declared to be an obſtinate and incor<g ref="char:EOLhyphen"/>rigible Heretick, and is left by them under the Sentence of the great Excommunication, and therefore as a corrupt member to be cut off from the reſt of the flock of Chriſt, leſt he ſhould in<g ref="char:EOLhyphen"/>fect others profeſſing the true Chriſtian Faith: and is to be by Our ſecular Power and Authority as an Heretick puniſhed: As by the <hi>Significavit</hi> of the ſaid Reverend Father in God the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Coventrey</hi> and <hi>Lichfield,</hi> bearing Date at <hi>Lichfield</hi> the fourtenth day of <hi>December</hi> in the ninth year of our Reign, and remaining in our Court of Chancery more at large appeareth. And although the ſaid <hi>Edward Wightman</hi> hath ſince the ſaid Sentence pronounced againſt him, been often very charitably moved and exhorted, as well by the ſaid Biſhop, as by many other Godly, Grave and Learned Divines to diſſwade, revoke, and remove him from the ſaid blaſphemous, Heretical and Ana<g ref="char:EOLhyphen"/>baptiſtical Opinions; Yet he arrogantly and wilfully perſiſteth and continueth in the ſame. We therefore, according to Our Regal Function and Office, minding the execution of Juſtice in this behalf, and to give example to others leſt they ſhould attempt the like hereafter, have determined by the aſſent of Our Councel to will and require, and do hereby authorize and require you Our ſaid Chancellor immediatly upon the receipt hereof to Award and make out under Our great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Our Writ of Execution according to the tenor in theſe preſents enſuing. And theſe preſents ſhall be your ſufficient Warrant and diſcharge for the ſame.</p>
+            <q>
+               <pb n="10" facs="tcp:33132:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>REx Vic' Civitatis noſtrae Lich. ſalutem; Cum Reverendus in Chriſto Pater Richardus providentia Divina Coventr' &amp; Lich' Epiſcopus nobis ſignificaverit, quod ipſe contra &amp; adverſus quendam Edwardum Wightman Parochiae de Burton ſuper Trent Coventr' &amp; Lich' Dioceſ. de &amp; ſuper nephandis hereſibus Ebionis, Cerinthi, Valentiniani, Arrii, Macedonii, Simonis Magi, Manetis, Manechiorum, Photini, &amp; Anabaptiſtarum aliorum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> hereſiarcha<g ref="char:EOLhyphen"/>rum, &amp; inſuper de aliis execrandis opinionibus inſtinctu Satana excogitatis &amp; antehac inauditis, juxta Canonum Eccleſiastico<g ref="char:EOLhyphen"/>rum legum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> &amp; conſuetudinum hujus Regni noſtri Angl' exigen<g ref="char:EOLhyphen"/>tiam judicialit' procedens, praedictus Edwardus Wightman coram praefato Reverendo Patre ac aliis Theologis &amp; jurisperitis ſibi in judicio aſſiſtentibus comparens, praedicta nephanda crimina haereſes ac alia deteſtanda blaſphemia &amp; Errores contumaciter &amp; ex qua<g ref="char:EOLhyphen"/>dam pertinacia ſcienter malicioſe animo<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> obdurato publicavit de<g ref="char:EOLhyphen"/>fendebat &amp; diſſeminabat, per ſententiam definitivam ejuſdem Re<g ref="char:EOLhyphen"/>verendi Patris cum conſenſu Theologorum &amp; jurisperitorum prae<g ref="char:EOLhyphen"/>dictorum juſte Legitime &amp; Canonice contra eundem Edwardum Wightman in ea parte latam heretic' adjudicat' &amp; pronunciat' ex<g ref="char:EOLhyphen"/>iſtit; &amp; ideo tanquam ovem morbidam è grege Domini ne ſubditos noſtros ſua contagione inficiet ejiciendum &amp; eliminandum fore de<g ref="char:EOLhyphen"/>creverit: Cum igitur Sancta Mater Eccleſia non habeat quod ul<g ref="char:EOLhyphen"/>terius in hac parte facere &amp; exequi debeat, idem Reverendus Pa<g ref="char:EOLhyphen"/>ter eundem Edwardum Wightman ut blaſphemum &amp; damnatum Haereticum brachio noſtro ſeculari reliquit, condigna animadver<g ref="char:EOLhyphen"/>ſione plectend' prout per Literas Patentes praefati Reverendi Patris Epiſcopi Coventr' &amp; Lich' in hac parte ſuperinde confect' nobis in Cancellar' noſtram certificat' eſt. Nos igitur ut zelator juſticiae &amp; fidei Catholicae defenſor: Volenteſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Eccleſiam Sanctam ac ju<g ref="char:EOLhyphen"/>ra &amp; libertates ejuſdem &amp; fidem Catholicam manutenere &amp; de<g ref="char:EOLhyphen"/>fendere, ac hujuſmodi Haereſes &amp; Errores ubi<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> (quantum in nobis eſt) eradicare &amp; extirpare, ac Haereticos ſic convictos a<g ref="char:EOLhyphen"/>nimadverſione condigna puniri, attendenteſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> hujuſmodi Haereti<g ref="char:EOLhyphen"/>cum in forma praedicta convictum &amp; damnatum juxta leges &amp; con<g ref="char:EOLhyphen"/>ſuetudinem Regui noſtri Angliae in hac parte conſuet' ignis incendio comburi debere; Tibi praecipimus quod dict. Edwardum
+<pb n="11" facs="tcp:33132:7"/>Wightman in cuſtodia tua exiſtent' in aliquo loco publico &amp; aperto infra Civitatem pradict' ex cauſa pramiſſa coram populo publice igni committi, &amp; ipſum Edwardum Wightman in codem igne re<g ref="char:EOLhyphen"/>aliter comburi fac' in hujuſmodi criminis deteſtationem aliorum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Chriſtianorum exemplum manifeſtum, ne in ſimile crimen laban<g ref="char:EOLhyphen"/>tur. Et hoc ſub periculo incumbenti nullatenus omittas. Teste, <hi>&amp;c.</hi>
+                        </p>
+                        <closer>
+                           <signed>Henry Hibaite.</signed>
+                        </closer>
+                        <postscript>
+                           <p>This containeth a Warrant to be granted by Your Majeſty unto the Lord Chancellour of <hi>England,</hi> for the Awarding of a Writ under the Great Seal of <hi>England,</hi> to the Sheriff of the City of <hi>Lichfield,</hi> for the burning of <hi>Edward Wightman</hi> who is convicted of divers horrible Hereſies before the Biſhop of <hi>Co<g ref="char:EOLhyphen"/>ventrey</hi> and <hi>Lichfield,</hi> and by his Sentence left to the ſecular Power, as is by the ſaid Biſhop certified to Your Majeſty, into Your Higneſs Court of Chancery.</p>
+                           <p>And is done by force of Your Majeſties Commandment to me given under Your Highneſs Sign Manuel.</p>
+                           <closer>
+                              <signed>Henry Hibaite.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe King to the Sheriff of Our City of <hi>Lichfield,</hi> Greeting. Whereas the Reverend Father in Chriſt, <hi>Richard</hi> by Di<g ref="char:EOLhyphen"/>vine Providence of <hi>Coventrey</hi> and <hi>Lichfield</hi> Biſhop, hath ſig<g ref="char:EOLhyphen"/>nified unto us that he judicially proceeding, according to the exigence of the Eccleſiaſtical Canons, and of the Laws and Cuſtomes of this Our Kingdome of <hi>England,</hi> againſt one
+<pb n="12" facs="tcp:33132:8"/>
+               <hi>Edward Wightman</hi> of the Pariſh of <hi>Burton</hi> upon <hi>Trent,</hi> in the Dioceſs of <hi>Coventrey</hi> and <hi>Lichfield,</hi> of and upon the wicked Hereſies of <hi>Ebion, Cerinthus, Valentinian, Arrius, Mace<g ref="char:EOLhyphen"/>donius, Simon Magus,</hi> of <hi>Manes, Manichees, Photinus,</hi> and of the <hi>Anabaptiſts,</hi> and other Arch-Hereticks, and moreover of other curſed Opinions belched by the inſtinct of Satan ex<g ref="char:EOLhyphen"/>cogitated and heretofore unheard of, the aforeſaid <hi>Edward Wightman</hi> appearing before the aforeſaid Reverend Father and other Divines, and Learned in the Law, aſſiſting him in Judge<g ref="char:EOLhyphen"/>ment, the aforeſaid wicked Crimes, Hereſies and other dete<g ref="char:EOLhyphen"/>ſtable Blaſphemies and Errours ſtubbornly and partinaciouſly, knowingly, maliciouſly, and with an hardened heart, pub<g ref="char:EOLhyphen"/>liſhed, defended and diſperſed, by definitive Sentence of the ſaid Reverend Father, with the conſent of Divines, Learned in the Law aforeſaid, Juſtly, Lawfully and Canonically againſt the ſaid <hi>Edward Wightman</hi> in that part brought, ſtands Ad<g ref="char:EOLhyphen"/>judged and Pronounced an Heretick, and therefore as a di<g ref="char:EOLhyphen"/>ſeaſed Sheep out of the Flock of the Lord, leſt Our Subjects he do infect by his contagion, he hath decreed to be caſt out and cut off. Whereas therefore the holy Mother Church hath not further in this part what it ought more to do and proſecute, the ſame Reverend Father, the ſame <hi>Edward Wightman</hi> as a Blaſphemous and condemned Heretick, hath left to Our ſecu<g ref="char:EOLhyphen"/>lar Power to be puniſhed with condign puniſhment, as by the Letters Patents of the aforeſaid Reverend Father the Biſhop of <hi>Coventrey</hi> and <hi>Lichfield</hi> in this behalf thereupon made is certified unto Us into Our Chancery. We therefore as a zelot of Juſtice and a Defend or of the Catholike Faith, and willing that the holy Church and the Rights and Liberties of the ſame and the Catholike Faith to Maintain and Defend, and ſuch like Hereſies and Errors every where ſo much as in us lies to root out and extirpate, and Hereticks ſo convict to puniſh with condign puniſhment, holding that ſuch an Heretick in the aforeſaid form convict and condemned according to the Laws and Cuſtomes of this Our Kingdome of <hi>England</hi> in this part accuſtomed ought to be burned with fire, We command thee that thou cauſe the ſaid <hi>Edward Wightman</hi> being in thy cuſtody
+<pb n="13" facs="tcp:33132:8"/>to be committed to the fire in ſome publike and open place be<g ref="char:EOLhyphen"/>low the City aforeſaid, for the cauſe aforeſaid, before the people, and the ſame <hi>Edward Wightman</hi> in the ſame fire cauſe really to be Burned in the deteſtation of the ſaid Crime and for manifeſt example of other Chriſtians, that they may not fall into the ſame Crime, and this no waies omit, under the peril that ſhall follow thereon. Witneſs, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <date>
+                  <hi>1611.</hi>
+               </date> Expedit' apud Weſtm' Nono die <hi>Martii</hi> Anno Regis Jacobi Angl' <hi>&amp;c.</hi> Nono. per <hi>Windebank.</hi>
+            </closer>
+         </div>
+         <div type="pardon">
+            <pb n="14" facs="tcp:33132:9"/>
+            <head>THE PARDON OF <hi>Theophilus Higgons.</hi>
+            </head>
+            <head type="sub">James R.</head>
+            <p>
+               <seg rend="decorInit">R</seg>EX omnibus ad quos, <hi>&amp;c.</hi> Salutem. Cum nobis dat' est intelligi, Quod Theophilus Higgons de London Clericus in partes tranſmarin' abſque licenc' noſtra Regia emigraverit, Ibidemque du<g ref="char:EOLhyphen"/>os ann' &amp; dimidium vel eo circiter Commorat' &amp; cum Jeſuitis &amp; Preſbyter' Converſat' fuerit, atque in eodem temporis ſpatio in Seminar' Anglic' apud Doway &amp; Sanct' Omer' aliquantiſper permanſerit, Et ſe Eccleſiae Roma<g ref="char:EOLhyphen"/>nae reconciliaverit, Necnon quaedam Scandaloſ. &amp; Periculoſ. contra Stat' hujus Regni noſtri tam Eccleſiaſt' quam Temporal', &amp; verbis &amp; ſcript' protulerit, &amp; enunciaverit, atque etiam quoſdam è ſubdit' noſtris a Religione in hoc Regno noſtro ſtabilit' ſe<g ref="char:EOLhyphen"/>ducere &amp; avertere operam &amp; vires intenderit; Poſtea tamen per ſancta &amp; bona media, &amp; praecipuè ex penitent' &amp; inſtinctu miſe<g ref="char:EOLhyphen"/>ricordiae &amp; gratiae Divinae, praed' perverſitat' ſuam, ac falſas &amp; opprobrioſas opiniones praed' penitùs abnegaverit, Seque Religioni verae &amp; reformat', &amp; in hoc Regno promulgat' &amp; ſtabilit' Confor<g ref="char:EOLhyphen"/>mem exhibuerit. Sciatis igitur, quod nos pietate moti de gratia noſtra ſpeciali, ac ex cert' ſcient' &amp; mer' motu noſtris pardona<g ref="char:EOLhyphen"/>vimus
+<pb n="15" facs="tcp:33132:9"/>remiſimus &amp; relaxavimus, ac per praeſentes pro nobis hered' &amp; ſucceſſor' noſtris pardonamus remittimus &amp; relaxamus, praed. Theophilo Higgons de London Clerico, ſeu quocunque alio nomine cognomine ſive additione nominis vel cognominis offic' art' dignitat. loc. vellocorum, idem Theophilus Higgons cenſeatur vo<g ref="char:EOLhyphen"/>cetur ſive nuncupetur, aut nuper cenſebatur vocabatur ſive nun<g ref="char:EOLhyphen"/>cupabatur, omn. &amp; omnimod. offenſ. de tranſeundo in partes tranſ<g ref="char:EOLhyphen"/>marin. abſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Licenc. nostra, ibidemque commorand &amp; cum Jeſuit. &amp; Preſbyter. converſand. ac in Seminar. Anglic. apud Doway &amp; Sanct. Omer. permanend. atque Eccleſiae Romanae ſe reconciliand. ac ſcandaloſ. aliqua contra Stat. Regni hujus tum Eccleſiaſt. quam temporal. &amp; ſcribend, &amp; loquend. atque aliquos è ſubdit. noſtris à Religione hujus Regni noſtri avertend. &amp; ſeducend; Atque omnes alias offenſ. delict. contempt. malefact. &amp; tranſgreſſion. quaſcunque praemiſſa aut eorum aliquod vel aliqua in aliquo tangen. vel con<g ref="char:EOLhyphen"/>cernen. per praed. Theophilum Higgons ante dat. praeſentium qua<g ref="char:EOLhyphen"/>litercunque. Commiſſ. ſive perp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trat. atque etiam omn. &amp; omnimod. offenſ. proditiones felonias &amp; premunir. ratione alicujus vel ali<g ref="char:EOLhyphen"/>quorum facti vel factor. ſuperius mencio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t. con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tiſ. perpetrat. vel incurſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; Licet idem Theophil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Higgons de praemiſ. vel aliquo premiſ. indictat. impetit. convict. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inct. adjudicat. utlegat. ſeu condemnat. exiſtit vel non exiſtit, aut inde indictar. impetir. con<g ref="char:EOLhyphen"/>vinc. atting. adjudicar. utlegar. ſeu condemnari contigerit in fu<g ref="char:EOLhyphen"/>turum; Nocnonomnes &amp; omnimod. utlegar. ſi quae in ipſum The<g ref="char:EOLhyphen"/>ophilum Higgons occaſionibus praed. ſeu earum aliqua fuerint pro<g ref="char:EOLhyphen"/>mulgat. ſive promulgand. Ac omn. &amp; omnimod. Judic. attinctur. conviction. condemnation. paenas mort. paenas corporal. impriſona<g ref="char:EOLhyphen"/>men. ac omn. al. for is factur. execution. punition. &amp; paenalitat. quae<g ref="char:EOLhyphen"/>cunque ſuper vel verſus ipſum Theophilum Higgons ratione ſeu occaſione praemiſ. ſive eor. alicujus habit. fact. reddit. ſive adjudicat. aut habend. faciend. reddend. ſeu adjudicand; Necnon omn. &amp; omnimod. action. ſect. querel. impetition. &amp; demand. quaecunque quae nos verſus ipſum Theophilum Higgons ratione ſive occaſione praemiſſ. ſeu eor. alicujus habemus habnimus ſeu in futurum habere poterimus, aut hered. ſen ſucceſſor. noſtri habere poterint in fu<g ref="char:EOLhyphen"/>tur. ſectamque pac. noſtrae quae ad nos verſus ipſum Theophilum Higgons pertinet ſeu perti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere poterit in futur. &amp; firmam pacem, &amp; hanc pardonation. noſtram eidem Theophilo Higgons inde damus
+<pb n="16" facs="tcp:33132:10"/>&amp; concedimus per praeſentes. Aliquo Statut. Act. proviſione ſeu re<g ref="char:EOLhyphen"/>ſtrictione in contrar. inde in aliquo non obstan. In cujus rci, <hi>&amp;c.</hi> Toſte, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>Fr. Bacon.</signed>
+
+               <date>
+                  <hi>1611.</hi>
+               </date> Expedit' apud Westm' <hi>xxiiij<hi rend="sup">o</hi>
+               </hi> die <hi>Julij</hi> Anno Regis Jacobi Nono. per <hi>Windebank.</hi>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>It may pleaſe Your excellent Majeſty.</salute>
+               </opener>
+               <p>
+                  <hi>This Bill containeth Your Majeſties gracious Pardon unto</hi> Theophilus Higgons <hi>Clerk, for any offence or contempt in paſ<g ref="char:EOLhyphen"/>ſing over the Seas, or reconciliation to the Church of</hi> Rome, <hi>or remaining in Seminaries, or converſing with Jeſuites or Prieſts, or other offenſes of that nature; for which he is Penitent, and hath converted and conformed himſelf to the Religion eſta<g ref="char:EOLhyphen"/>bliſhed in this Realm.</hi>
+               </p>
+               <p>
+                  <hi>I have no Warrant for the drawing of this Bill, ſave that S<hi rend="sup">r</hi>
+                  </hi> Edward Hoby, <hi>to whom the party bears ſpecial obligation, did by his Letter to me ſignifie Your Majeſties pleaſure to this purpoſe: But becauſe the parties converſion was ſo no<g ref="char:EOLhyphen"/>torious, and ſo generally liked, I have preſumed to commend this Bill to Your Majeſties Signature.</hi>
+               </p>
+               <closer>
+                  <signed>Fr. Bacon.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="pardon">
+            <pb n="17" facs="tcp:33132:10"/>
+            <head>THE PARDON OF S<hi rend="sup">r</hi> 
+               <hi>Eustace Harte.</hi>
+            </head>
+            <head type="sub">James R.</head>
+            <p>
+               <seg rend="decorInit">R</seg>EX Omnibus ad quos, <hi>&amp;c.</hi> Salutem. Sciatis, quod nos de gratia noſtra ſpeciali ae ex certa ſcientia &amp; mero motu noſtris pardonavimus, remiſimus &amp; re<g ref="char:EOLhyphen"/>laxavimus ac per praeſentes pro nobis haered. &amp; ſuc<g ref="char:EOLhyphen"/>ceſſor. noſtris pardonamus, remittimus &amp; relaxamus Euſtathio Haerte de villa de Southampton milit. ſeu quocunque alio nomine, cognomine ſeu additione nominis vel cognominis, dignitat. Offic. loc. vel. locorum idem Euſtathius Harte ſciatur, cenſeatur, vocetur ſeu nuncupetur, aut nuper ſciebatur, cenſeabatur, vocaba<g ref="char:EOLhyphen"/>tur ſive nuncupabatur omnia &amp; ſingula crimina &amp; offenſ. Adul<g ref="char:EOLhyphen"/>terii, Fornicationis &amp; Incontinentiae quaſcunque per ipſum Euſta<g ref="char:EOLhyphen"/>thium Harte cum aliqua muliere ſive aliquibus mulieribus ante dat. praeſent. ubicun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quandocun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quomodocun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> &amp; qualitercun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> fact. commiſ. ſive perpetrat. Necnon omnia &amp; ſingula ſect. Impe<g ref="char:EOLhyphen"/>titiones, actiones, fines, paenas, amerciament. &amp; punitiones quaſ<g ref="char:EOLhyphen"/>cun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tangen. ſeu concernen. praemiſſa ſeu eorum aliquod. Except. ſemper extra has praeſentes omnibus &amp; ſingulis Rapt. Mulier. Angl. vocat. <hi>Rapes,</hi> &amp; omnibus &amp; ſingulis Inceſt. &amp; Buggeriis &amp; omni<g ref="char:EOLhyphen"/>bus aliis criminibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; offenſis unde aliqua Billa, Actio, querela aut
+<pb n="18" facs="tcp:33132:11"/>Informatio ante dat. praeſen. exhibit. fuit &amp; coram nobis &amp; conſilio noſtro in Camerae Stellat. aut aliquibus aliis Cur. noſtris apud Weſt<g ref="char:EOLhyphen"/>monaſter. aut in aliqua vel aliquibus curiis nostris Eccleſiaſticis aut coram aliquem vel aliquos Judicem vel Judic. aut Commiſſio<g ref="char:EOLhyphen"/>nar. noſtros Eccleſiaſtic. modò dependet &amp; remanet proſequend. In cujus rei, <hi>&amp;c.</hi> Teſte, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>This containeth Your Majeſties Pardon to S<hi rend="sup">r</hi>
+               </hi> Euſtace Hart <hi>Knight, of all Adulteries, Fornications and Incontinencies com<g ref="char:EOLhyphen"/>mitted with any woman before this time, and alſo of all impri<g ref="char:EOLhyphen"/>ſonments, fines and puniſhments in reſpect of the ſame.</hi>
+            </p>
+            <p>
+               <hi>It containeth nevertheleſs an Exception of all Rapes, Inceſt and Buggeries, and all Sutes wherein any Bill or Sute is depending in the Court of Star-chamber, or any other Your Majeſties Courts at</hi> Weſtminſter, <hi>or in any Eccleſiaſtical Court what<g ref="char:EOLhyphen"/>ſoever.</hi>
+            </p>
+            <closer>
+               <signed>Tho. Ridley Cancellarius Winton. Ex. Levinus Munck.</signed>
+               <date>
+                  <hi>1616.</hi>
+               </date> Expedit' apud Weſtm' Undecimo die <hi>Julii</hi> Anno Regis Jacobi quarto decimo. per <hi>Windebank.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33132:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
